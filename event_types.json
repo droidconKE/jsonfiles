@@ -1,0 +1,23 @@
+"event_types": [
+    {
+      "id": 0,
+      "name": "Kaz Sato",
+      "description": "Kaz Sato is Staff Developer Advocate at Cloud Platform team, Google Inc. He leads the developer advocacy team for Machine Learning and Data Analytics products, including TensorFlow and BigQuery. Invited to major events including Google Cloud Next '17 SF, Google I/O 2016, Hadoop Summit 2016, Strata+Hadoop World 2016 San Jose and NYC, ODSC East/West 2016 and Google Next 2015 NYC. Kaz also has been leading and supporting developer communities for Google Cloud for over 8 years.",
+      "eventImageUrl": "https://lh3.googleusercontent.com/fM2b9tegoB4kiZB5tzERJ9S4mSUM9NUZkbvirKCfO_4mcxHAWQ9ne1Z1dVeisjkWbH1a4x16z6aZEl0RWEfcotZj"
+
+    },
+    {
+      "id": 1,
+      "name": "Sam Stern",
+      "description": "Helping developers build great Android apps on Firebase.",
+      "eventImageUrl": "https://lh3.googleusercontent.com/AxwZnRObA8469lnbk_4AeT40YzxUEVFcxpjtlmdWJRHD4QPN6yj7lqY29bGESx5MgDvkTJZ9AZ8aYSAyr1ExxA"
+    },
+    {
+      "id": 2,
+      "name": "Milena Nikolic",
+      "description": "Milena Nikolic is a Software Engineering Manager leading Google Play App Distribution team in London. She has been at Google for over 8 years, working on a number of projects related to Mobile, Search and Android. She is passionate about building happy and productive engineering teams, powerful products and cool technology.",
+      "eventImageUrl": "https://lh3.googleusercontent.com/n_Nd8b-HWfXth09Y-M6uVPmf2V6yQ5vpN40T7e5rwZu1hWR7IJNkpMiHtNbW5cVzXoIWuzhkmzMbWM5lU50Uw037"
+    }
+  ]
+}
+    

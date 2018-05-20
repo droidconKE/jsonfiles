@@ -1,0 +1,19 @@
+{
+  "rooms": [
+    {
+      "id": 0,
+      "name": "6th Floor,Senteu Plaza",
+      "capacity": 200
+    },
+    {
+      "id": 1,
+      "name": "6th Floor,Senteu Plaza",
+      "capacity": 120
+    },
+    {
+      "id": 2,
+      "name": "5th Floor,Senteu Plaza",
+      "capacity": 280
+    }
+  ]
+}
