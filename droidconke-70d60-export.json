@@ -173,5 +173,85 @@
       "description": "Attendees are offered complementary breakfast, lunch and snacks on all two days of the conference ",
       "eventImageUrl": "https://lh3.googleusercontent.com/n_Nd8b-HWfXth09Y-M6uVPmf2V6yQ5vpN40T7e5rwZu1hWR7IJNkpMiHtNbW5cVzXoIWuzhkmzMbWM5lU50Uw037"
     }
-  ]
+  ],
+  "agenda": [
+    {
+      "id": 0,
+      "title": "Registration",  
+      "time": "8:00 AM - 9:00 AM",
+      "background_color": "#e5e9ec"
+    },
+     {
+      "id": 1,
+      "title": "Welcome Words",
+      "time": "9:00 AM - 9:15 AM",
+      "background_color": "#e5e9ec"
+    },
+    {
+      "id": 2,
+      "title": "Keynote",
+      "time": "9:15 AM - 10:00 AM",
+      "background_color": "#e5e9ec"
+    },
+    {
+      "id": 3,
+      "title": "Codelab 1",
+      "time": "10:15 AM - 11:30 AM",
+      "background_color": "#3F51B5"
+    },
+    {
+      "id": 4,
+      "title": "Tea Break",
+      "time": "11:30 AM - 11:45 AM",
+      "background_color": "#1ce8b5"
+    },
+    {
+      "id": 5,
+      "title": "Sponsor Slot",
+      "time": "11:45 AM - 12:15 PM",
+      "background_color": "#3F51B5"
+    },
+    {
+      "id": 6,
+      "title": "Codelab 2",
+      "time": "12:15 PM - 01:00 PM",
+      "background_color": "#3F51B5"
+    },
+    {
+      "id": 7,
+      "title": "Lunch",
+      "time": "01:00 PM - 2:00 PM",
+      "background_color": "1ce8b5"
+    },
+    {
+      "id": 8,
+      "title": "Office Hours",
+      "time": "02:00 PM - 03:30 PM",
+      "background_color": "#8799ff"
+    },
+     {
+      "id": 9,
+      "title": "Hiring Sprints",
+      "time": "02:00 PM - 03:30 PM",
+      "background_color": "#8799ff"
+    },
+     {
+      "id": 10,
+      "title": "Coding Interviews",
+      "time": "02:00 PM - 03:30 PM",
+      "background_color": "#8799ff"
+    },
+     {
+      "id": 11,
+      "title": "Pitching",
+      "time": "02:00 PM - 03:30 PM",
+      "background_color": "#8799ff"
+    },
+     {
+      "id": 12,
+      "title": "Codelab 3",
+      "start": "03:30 PM - 05:30 PM",
+      "background_color": "#3F51B5"
+    }
+		]
 }
