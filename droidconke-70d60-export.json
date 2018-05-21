@@ -179,19 +179,19 @@
       "id": 0,
       "title": "Registration",  
       "time": "8:00 AM - 9:00 AM",
-      "background_color": "#e5e9ec"
+      "background_color": "#bcc8fb"
     },
      {
       "id": 1,
       "title": "Welcome Words",
       "time": "9:00 AM - 9:15 AM",
-      "background_color": "#e5e9ec"
+      "background_color": "#bcc8fb"
     },
     {
       "id": 2,
       "title": "Keynote",
       "time": "9:15 AM - 10:00 AM",
-      "background_color": "#e5e9ec"
+      "background_color": "#bcc8fb"
     },
     {
       "id": 3,
@@ -221,7 +221,7 @@
       "id": 7,
       "title": "Lunch",
       "time": "01:00 PM - 2:00 PM",
-      "background_color": "1ce8b5"
+      "background_color": "#1ce8b5"
     },
     {
       "id": 8,
