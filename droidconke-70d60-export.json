@@ -13,6 +13,7 @@
 	    "starred" : "0",
 	    "title" : "Kotlin Basics",
 	    "topic" : "Functional Programming",
+      "topic_color" :"#1ce8b5",
 	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
 },
 {
@@ -28,6 +29,7 @@
 	    "starred" : "0",
 	    "title" : "Firebase ",
 	    "topic" : "Firebase",
+      "topic_color" :"#e51ce8b5",
 	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
 },
 {
@@ -43,6 +45,7 @@
 	    "starred" : "0",
 	    "title" : "Tools and tips to boost user engagement and retention",
 	    "topic" : "Grow & Earn",
+       "topic_color" :"#00e4ff",
 	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
 }
 	],
@@ -61,6 +64,7 @@
 	    "startTimeStamp" : "1200",
 	    "title" : "App Reviews: App Consultations",
 	    "topic" : "App Reviews",
+      "topic_color" :"#ffd500",
 	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
 },
 {
@@ -76,6 +80,7 @@
 	    "starred" : "0",
 	    "title" : "Office Hours with the Android Location & Context team",
 	    "topic" : "Location Services",
+      "topic_color" :"#2196f3",
 	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
 },
 {
@@ -91,6 +96,7 @@
 	    "starred" : "0",
 	    "title" : "Office Hours with the Android Studio team",
 	    "topic" : "Android Tools",
+      "topic_color" :"#863B96",
 	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
 }
 	],
