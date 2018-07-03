@@ -1,0 +1,18 @@
+  "session_types": [
+    {
+      "id": 0,
+      "name": "Codelabs"
+    },
+    {
+      "id": 1,
+      "name": "After Hours"
+    },
+    {
+      "id": 2,
+      "name": "Sessions"
+    },
+    {
+      "id": 3,
+      "name": "Meetups"
+    }
+  ]

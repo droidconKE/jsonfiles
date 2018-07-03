@@ -308,5 +308,117 @@
       "bio": "It was founded in 2010, iHub is a globally recognized organization that is deeply steeped in the local tech innovation culture. It is fair to say that the iHub has been both the main catalyst for regional tech acceleration and a role model for tech hubs across emerging markets. Over the years the iHub has worked with over 300+ startups and gained over 18000 virtual and physical members. We are nurturing the best innovation and entrepreneurship ecosystem; one that constantly challenges and influences technology; one that can be replicated across the continent, as we believe that African innovation will play a critical role in shaping future technology globally.",
       "logoUrl":"https://firebasestorage.googleapis.com/v0/b/droidconke-70d60.appspot.com/o/app-store-icon.png?alt=media&token=c7621c92-c05a-4107-b070-901294f8ec50"
      }
-  ]
+  ],
+    "session_topics": [
+    {
+      "id": 0,
+      "name": "Firebase"
+    },
+    {
+      "id": 1,
+      "name": "Android Things"
+    },
+    {
+      "id": 2,
+      "name": "Location"
+    }
+    ,
+    {
+      "id": 3,
+      "name": "Andrid JetPack"
+    }
+    ,
+    {
+      "id": 4,
+      "name": "Android X"
+    }
+    ,
+    {
+      "id": 5,
+      "name": "Kotlin"
+    }
+    ,
+    {
+      "id": 6,
+      "name": "Gradle "
+    }
+    ,
+    {
+      "id": 7,
+      "name": "Constraint Layout"
+    }
+  ],
+    "session_types": [
+    {
+      "id": 0,
+      "name": "Codelabs"
+    },
+    {
+      "id": 1,
+      "name": "After Hours"
+    },
+    {
+      "id": 2,
+      "name": "Sessions"
+    },
+    {
+      "id": 3,
+      "name": "Meetups"
+    }
+  ],
+    "users" : {
+    "P94XzINlluZZXHYk8zxPcBGdBPy1" : {
+      "refresh_token" : "dUYttdvxqXE:APA91bHVogLxIgKGF1xiV1tdysH0E8lzZCn8JUPTstXDo4qJOTnocJzT8noRAVdWUpTOyls78bik0SK7rpBqriwjMfroc2HHQOCoLt4ZjetymgTZDCkxjzfriMCOgNdSXDElSDqn3cec",
+      "starred" : {
+        "-LFaKl7G4Dav-wQ5_IgG" : {
+          "day" : "day_two",
+          "session_id" : "1",
+          "user_id" : "P94XzINlluZZXHYk8zxPcBGdBPy1"
+        },
+        "-LFaNViGqPl-MjQgcoyE" : {
+          "day" : "day_two",
+          "session_id" : "2",
+          "user_id" : "P94XzINlluZZXHYk8zxPcBGdBPy1"
+        },
+        "-LFaYf5EtQcjKuQXZu4V" : {
+          "day" : "day_two",
+          "session_id" : "2",
+          "user_id" : "P94XzINlluZZXHYk8zxPcBGdBPy1"
+        },
+        "-LFaZdCg8LLarMuZEaHT" : {
+          "day" : "day_one",
+          "session_id" : "1",
+          "user_id" : "P94XzINlluZZXHYk8zxPcBGdBPy1"
+        },
+        "-LFa_WTEnsQpN8kIRsVT" : {
+          "day" : "day_two",
+          "session_id" : "1",
+          "user_id" : "P94XzINlluZZXHYk8zxPcBGdBPy1"
+        }
+      }
+    },
+    "gtt7CiJ3vBTgaOnVQnSLHDGF62s1" : {
+      "email" : "gibsonsilali@gmail.com",
+      "photo_url" : "https://lh6.googleusercontent.com/-9ibfmFGsNr8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2vhP3O6eyoi8m_olVvAxhAjFuVmw/s96-c/photo.jpg",
+      "refresh_token" : "cfrCXhwRci4:APA91bGhmVwrA_eBm1iVFACrggpqXtYkd-GZ0569Nbmc6VT4thd-AqOUS1bmK_swI632EXZkVyQl5PGRxbVvZB4h_91twQRcB-Qy3eFTVapr6QF-_CKLgYFnGQI8Bee_9WscVxlSdVDf5eRVxNibemo0viFSh4raeQ",
+      "starred" : {
+        "-LFalAmqHQFlJ48AMLkp" : {
+          "day" : "day_one",
+          "session_id" : "0",
+          "user_id" : "gtt7CiJ3vBTgaOnVQnSLHDGF62s1"
+        }
+      },
+      "user_id" : "gtt7CiJ3vBTgaOnVQnSLHDGF62s1",
+      "user_name" : "gibson silali"
+    },
+    "vJYK8gKlzpfAaSDjnmeZpsHP9Lw1" : {
+      "refresh_token" : "d_ur0WYMYVU:APA91bHGFTZzDeFCwVuLVfvABkbftS3ki-K8G1RJS8R_J20QD3DJxhU-7ry9DFoV9CzWwTIaiIYdkbfGUbEox9sONJ8rOzCKX-4JqCw1-8k5LjQcWtRTq4-xKYNHOHjAZ-9u_08OkHHt"
+    },
+    "vzLSmMuNTXaPNF9qfi1Aa8OD6mG3" : {
+      "email" : "frnktamre@gmail.com",
+      "photo_url" : "https://lh3.googleusercontent.com/-jhpz8J3xhpc/AAAAAAAAAAI/AAAAAAAAMsw/WqTPdvVocaU/s96-c/photo.jpg",
+      "user_id" : "vzLSmMuNTXaPNF9qfi1Aa8OD6mG3",
+      "user_name" : "Frank Tamre"
+    }
+  }
 }

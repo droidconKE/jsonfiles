@@ -1,0 +1,50 @@
+"day_one": [
+		{
+		  "description" : "Functional programming can feel like a big wave of fresh air over a beautiful landscape at sunset. The flowers are literally us.",
+  		"duration" : "2 hours",
+      "time" : "Thur,July 26,10:00 -11:00 AM",
+      "time_stamp" :"26-05-2018 16:56",
+  		"id" : 0,
+	    "main_tag" : "Is Kotlin a FP lang",
+	    "room" : "Section A",
+	    "speaker_id" : 0,
+	    "room_id" : 1,
+	    "starred" : "0",
+	    "title" : "Kotlin Basics",
+	    "topic" : "Functional Programming",
+      "topic_color" :"#1ce8b5",
+	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
+},
+{
+		  "description" : "Rewarding for engagement with Firebase.",
+  		"duration" : "1 hour",
+      "time" : "Thur,July 26,10:00 -11:00 AM",
+      "time_stamp" :"26-05-2018 16:56",
+  		"id" : 1,
+	    "main_tag" : "Firebase",
+	    "room" : "Section B",
+	    "speaker_id" : 1,
+	    "room_id" : 1,
+	    "starred" : "0",
+	    "title" : "Firebase ",
+	    "topic" : "Firebase",
+      "topic_color" :"#e51ce8b5",
+	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
+},
+{
+		  "description" : "Google Play connects you to over 1 billion people globally. Learn how to create engaging app experiences that keep users coming back. \n\nLearn about the tools and features developers can take advantage of across Google Play, Firebase and Google Identity to optimize key aspects of the user experience such as on-boarding, personalization, or notifications, to build a more successful app. \n\nThis session is recommended for beginner/ intermediate level developers and product managers.",
+  		"duration" : "2 hours",
+      "time" : "Thur,July 26,10:00 -11:00 AM",
+      "time_stamp" :"26-05-2018 16:56",
+  		"id" : 2,
+	    "main_tag" : "User engagement",
+	    "room" : "Section C",
+	    "speaker_id" : 2,
+	    "room_id" : 2,
+	    "starred" : "0",
+	    "title" : "Tools and tips to boost user engagement and retention",
+	    "topic" : "Grow & Earn",
+       "topic_color" :"#00e4ff",
+	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
+}
+]

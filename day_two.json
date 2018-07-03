@@ -1,0 +1,51 @@
+"day_two" : [
+		{
+		  "description" : "Meet with Google Play experts to get personalized advice on improving your app performance.",
+  	  "duration" : "3 hours",
+      "time" : "Fri,July 27,10:00 -11:00 AM",
+      "time_stamp" :"26-05-2018 16:56",
+  		"id" : 0,
+	    "main_tag" : "Google Play",
+	    "room" : "Section A",
+	    "speaker_id" :0,
+	    "room_id" : 0,
+	    "starred" : "0",
+	    "startTimeStamp" : "1200",
+	    "title" : "App Reviews: App Consultations",
+	    "topic" : "App Reviews",
+      "topic_color" :"#ffd500",
+	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
+},
+{
+		  "description" : "Have questions about determining location on Android or location updates in Android P? Want to understand how to efficiently ask the user where they are? Want to understand how to use activity recognition (running/walking/driving) in your app, or how to process sensor information? Come have a chat with members of the Android team responsible for the Location, Geofencing, Nearby, Awareness, Sensors and Activity Recognition APIs.",
+  		"duration" : "2 hours",
+      "time" : "Fri,July 27,10:00 -11:00 AM",
+      "time_stamp" :"26-05-2018 16:56",
+  		"id" : 1,
+	    "main_tag" : "Maps",
+	    "room" : "Section B",
+	    "speaker_id" : 1,
+	    "room_id" : 1,
+	    "starred" : "0",
+	    "title" : "Office Hours with the Android Location & Context team",
+	    "topic" : "Location Services",
+      "topic_color" :"#2196f3",
+	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
+},
+{
+		  "description" : "Do you have questions about your app project in Android Studio? Are you looking for tips on how to speed up your Gradle builds?  Do you want to understand how to use ConstraintLayout to optimize your app layouts? If so, come by and chat with the Android Studio team during our office hours to discuss these topics and more",
+  		"duration" : "2 hours",
+      "time" : "Fri,July 27,10:00 -11:00 AM",
+      "time_stamp" :"26-05-2018 16:56",
+  		"id" : 2,
+	    "main_tag" : "Android Studio",
+	    "room" : "Section C",
+	    "speaker_id" : 2,
+	    "room_id" : 2,
+	    "starred" : "0",
+	    "title" : "Office Hours with the Android Studio team",
+	    "topic" : "Android Tools",
+      "topic_color" :"#863B96",
+	    "url" : "https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf"
+}
+	]
